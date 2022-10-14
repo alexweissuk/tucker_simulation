@@ -30,12 +30,12 @@ numobs: Number of observations (e.g., participants) per sample
 ## References
 <a id="1">[1]</a>
 Tucker L, Koopman RF, Linn RL. 1969. Evaluation of factor analytic research procedures by means of 
-simulated correlation matrices. Psychometrika 34:421-459. http://dx.doi.org/10.1007/BF02290601
+simulated correlation matrices. Psychometrika 34:421-459. http://doi.org/10.1007/BF02290601
 
 <a id="2">[2]</a>
 MacCallum RC, Widaman KF, Zhang S, Hong S. 1999. Sample size in factor
 analysis. Psychol Meth
-1:84-99. https://psycnet.apa.org/doi/10.1037/1082-989X.4.1.84
+1:84-99. https://doi.org/10.1037/1082-989X.4.1.84
 
 <a id="3">[3]</a>
 Coughlin K, Kromrey J, Hibbard S. 2013 Using predetermined factor
